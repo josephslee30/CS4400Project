@@ -2,11 +2,6 @@ import pandas as pd
 import numpy as np
 from os.path import join
 import math
-from fuzzywuzzy import fuzz
-from sklearn.metrics import f1_score
-from sklearn.metrics import recall_score
-from sklearn.metrics import precision_score
-from sklearn.model_selection import train_test_split
 
 # 1. read data
 
